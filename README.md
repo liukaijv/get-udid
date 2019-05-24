@@ -1,6 +1,6 @@
 # get-udid
 
-> 测试通过safari获取ios设备udid
+> 测试通过safari获取ios设备udid，下载并安装ipa应用
 
 参考 
 

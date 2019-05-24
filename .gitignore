@@ -1,2 +1,5 @@
 .idea
 udid.mobileconfig
+*.ipa
+.plist
+config.json
